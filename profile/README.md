@@ -1,12 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# 🕌 Masjit Tech
 
-**Here are some ideas to get you started:**
+### Technology for Muslim communities
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Building modern, accessible and open-source tools for mosques and Muslim communities.
+
+</div>
+
+---
+
+## Our projects
+
+### Masjit TV
+Digital displays and information systems for mosques.
+
+### Masjit Core
+Backend infrastructure and shared services.
+
+### Masjit Apps
+Web and mobile applications for Muslim communities.
+
+---
+
+## Our mission
+
+We build technology that helps mosques serve their communities more effectively.
+
+---
+
+## Contributing
+
+Developers and designers are welcome to contribute.
+
+<div align="center">
+
+Built for the Ummah 🤍
+
+</div>
