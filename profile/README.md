@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/masjit-tech/.github/main/assets/banner.png" alt="Masjit: Din moskés IT-lösning" width="100%">
+<img src="https://raw.githubusercontent.com/masjit-tech/.github/main/assets/banner-v2.png" alt="Masjit: Din moskés IT-lösning" width="100%">
 
 <br><br>
 
