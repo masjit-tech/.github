@@ -71,11 +71,6 @@ Webbappen för besökare och administratörer. Tider, information och skötsel a
 </tr>
 </table>
 
-> [!NOTE]
-> Repona är privata i dagsläget. Vill du veta mer, eller digitalisera din moské? Hör av dig.
-
-<br>
-
 <div align="center">
 
 **Byggt för moskéer. Byggt för Ummah.**
