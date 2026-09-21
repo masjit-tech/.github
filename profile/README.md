@@ -10,13 +10,13 @@
 
 ---
 
-## 🕌 Om Masjit
+## Om Masjit
 
 Masjit bygger digitala verktyg för moskéer och muslimska organisationer.
 
 Vi fokuserar på enkla, pålitliga lösningar som faktiskt används i vardagen — bönetider som alltid stämmer, informationsskärmar som bara fungerar, och administration som inte kräver en IT-avdelning.
 
-## 💻 Våra projekt
+## Våra projekt
 
 | Projekt | Vad det är |
 | --- | --- |
@@ -27,21 +27,14 @@ Vi fokuserar på enkla, pålitliga lösningar som faktiskt används i vardagen �
 
 > Repona är privata i dagsläget. Hör av dig om du vill veta mer eller samarbeta.
 
-## 🚀 Teknik
+## Teknik
 
 `TypeScript` · `React` · `Vite` · `Supabase` · `Tailwind CSS` · `Raspberry Pi`
-
-## 🤝 Samarbeta
-
-Är du utvecklare, designer eller representerar du en moské som vill digitalisera?
-Skriv till oss — vi bygger gärna tillsammans.
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/masjit-tech/.github/main/assets/icon.png" alt="Masjit" width="72">
-
-**Byggt för moskéer. Byggt för Ummah.** 🤍
+**Byggt för moskéer. Byggt för Ummah.**
 
 </div>
